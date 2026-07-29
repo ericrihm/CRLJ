@@ -19,6 +19,7 @@ Resources
 
 Tools
 -----
+- [PPEE](https://mzrst.com/)
 - [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) 
 - [Angr](https://github.com/angr/angr)
 - [Godbolt](https://godbolt.org/)
