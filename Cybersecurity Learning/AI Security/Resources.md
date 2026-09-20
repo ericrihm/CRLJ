@@ -9,6 +9,7 @@
 - [A2AS](https://a2as.org/) 
 - [Anthropic Red Team — Attack Navigator (2026)](https://red.anthropic.com/2026/attack-navigator/navigator) 
 ---
+- [Applied AI For Security Engineering](https://labs.secengai.com/)
 - [LLM Security (llmsecurity.net)](https://llmsecurity.net/)
 - [Agentic Intelligence Newsletter (beehiiv)](https://agentic-intelligence.beehiiv.com/)
 - [Vinod Vasudev — Why Agentic AI Threats Could Eclipse... (Substack)](https://vinodvasudev.substack.com/p/why-agentic-ai-threats-could-eclipse?r=53xyeu)
@@ -29,7 +30,7 @@
 - [Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)
 - [CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
 - [Strix](https://github.com/usestrix/strix)
-- https://github.com/ibrasonic/Reqlore
+- [Reqlore](https://github.com/ibrasonic/Reqlore)
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 - [shor](https://github.com/tr4m0ryp/shor)
 - [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
@@ -41,7 +42,8 @@
 - [pentest-ai](https://github.com/0xSteph/pentest-ai)
 - [Shannon (KeygraphHQ)](https://github.com/KeygraphHQ/shannon)
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
-- https://github.com/jonaslejon/ad-autopwn
+- [AI Web Vulnerability Scanner](https://github.com/Akhyame/ai-web-vulnerability-scanner)
+- [AD AutoPWN](https://github.com/jonaslejon/ad-autopwn)
 - [cybersentinel-ai](https://github.com/3sk1nt4n/cybersentinel-ai)
 - [nebula (berylliumsec)](https://github.com/berylliumsec/nebula)
 - [KavachRT](https://kavachrt.com/)
