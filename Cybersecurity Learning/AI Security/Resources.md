@@ -29,6 +29,7 @@
 ---
 - [Agentic Bug Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)
 - [CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
+- [Ares](https://github.com/dreadnode/ares)
 - [Strix](https://github.com/usestrix/strix)
 - [Reqlore](https://github.com/ibrasonic/Reqlore)
 - [T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
